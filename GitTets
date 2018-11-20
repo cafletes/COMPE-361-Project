@@ -1,0 +1,10 @@
+namespace GitTest
+{
+	class FirstTest
+	{
+		void static main()
+		{
+			printf($"Hello Test");
+		}
+	}
+}
